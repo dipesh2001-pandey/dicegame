@@ -1,3 +1,3 @@
 # dicegame
 check live demo at
-https://astounding-lolly-62fb4d.netlify.app
+https://bucolic-panda-f9c3c5.netlify.app/
